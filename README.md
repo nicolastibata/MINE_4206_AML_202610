@@ -11,17 +11,17 @@ A repo for "Análisis de Machine Learning" at Universidad de los Andes. You'll f
 
 | Lab | Title | Estimated Time |
 |-----|-------|----------------|
-| 1   | [Lab 1 S1: Linear Regression](labs/Laboratorio_1/) | 1 hour |
-| 2   | [Lab 1 S2: Polinomial Regression](labs/Laboratorio_1/) | 1 hour |
-| 3   | [Lab 2 S1: Logistic Regression](labs/Laboratorio_2/) | 2 hours |
-| 4   | [Lab 2 S2: SVM](labs/Laboratorio_2/) | 2 hours |
-| 5   | [Lab 3 S1: Neural Networks](labs/Laboratorio_3/) | 2 hours |
-| 6   | [Lab 3 S2: Naive Bayes](labs/Laboratorio_3/) | 3 hours |
-| 7   | [Lab 4 S1: Streamlit deployment](labs/Laboratorio_4/) | 2 hours |
-| 8   | [Lab 4 S2: K-means, DBSCAN](labs/Laboratorio_4/) | 2 hours |
-| 9   | [Lab 5 S1: PCA-tSNE](labs/Laboratorio_5/) | 2 hours |
-| 10  | [Lab 5 S2: Isolation Forest, Autoencoders](labs/Laboratorio_5/) | 2 hours |
-| 11  | [Lab 6: AutoML](labs/Laboratorio_6/) | 2 hours |
+| 1   | [Lab 1 S1: Linear Regression](labs/lab_1/) | 1 hour |
+| 2   | [Lab 1 S2: Polinomial Regression](labs/lab_1/) | 1 hour |
+| 3   | [Lab 2 S1: Logistic Regression](labs/lab_2/) | 2 hours |
+| 4   | [Lab 2 S2: SVM](labs/lab_2/) | 2 hours |
+| 5   | [Lab 3 S1: Neural Networks](labs/lab_3/) | 2 hours |
+| 6   | [Lab 3 S2: Naive Bayes](labs/lab_3/) | 3 hours |
+| 7   | [Lab 4 S1: Streamlit deployment](labs/lab_4/) | 2 hours |
+| 8   | [Lab 4 S2: K-means, DBSCAN](labs/lab_4/) | 2 hours |
+| 9   | [Lab 5 S1: PCA-tSNE](labs/lab_5/) | 2 hours |
+| 10  | [Lab 5 S2: Isolation Forest, Autoencoders](labs/lab_5/) | 2 hours |
+| 11  | [Lab 6: AutoML](labs/lab_6/) | 2 hours |
 
 ## Assignments
 
