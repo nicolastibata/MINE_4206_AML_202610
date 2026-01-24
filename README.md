@@ -1,7 +1,7 @@
 # MINE_4206_AML_202610
 ![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)
 
-![Course Banner](docs/images/logo.png)
+![Course Banner](docs/logo.jpg)
 
 ## Overview
 
